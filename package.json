@@ -1,0 +1,17 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot-server.js",
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "telegraf": "^3.30.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot-server.js"
+  },
+  "author": "Olha Tytarenko",
+  "license": "ISC"
+}
